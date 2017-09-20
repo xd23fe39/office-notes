@@ -1,14 +1,24 @@
 # Office Notes
 
-Erweiterte Dokumentenvorlage für Notizen zwecks Ausdruck.
+Erweiterte Dokumentenvorlage für Notizen zum Ausdrucken.
 
-## Erstellung der Dokumentenvorlagen
+## Verwendung
 
-Die Dokumente basieren auf **LibreOffice Draw**. Die zum Ausdrucken erforderlichen *Druckvorlagen* werden als PDF-Dokumente bereitgestellt (exportiert).
+- Kategorie / Datum
+- Titel
+- Notizen / Skizze (Kreativität)
+- Save the Date: WANN muss WAS erledigt sein?
+- Maßnahmen: WAS als nächstes getan werde muss!
+- Komplikationen: WO sind Risiken oder Probleme zu erwarten?
+- Voraussetzungen: WAS brauchen wir für die Umsetzung?
 
-## Drucken der PDF-Druckvorlagen
+## Anleitung zum Ausdrucken
+
+Drucken der PDF-Druckvorlagen:
 
 - mind. 600x600dpi
 - kein ECO Mode oder ECO Print
 
+## Erstellung der Dokumentenvorlagen
 
+Die Quelldokumente basieren auf **LibreOffice Draw**. Zum Ausdrucken werden *Druckvorlagen* als PDF-Dokumente bereitgestellt (exportiert).
